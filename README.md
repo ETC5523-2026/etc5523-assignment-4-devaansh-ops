@@ -32,7 +32,7 @@ It compares the CBD with towns on the Great Ocean Road (Torquay, Anglesea, Lorne
 | `breakeven_nights()` | Nights a month needed to beat the long-term rent, with an estimate of nights a typical listing gets |
 | `run_app()` | Opens the app |
 
-**Data**, cleaned from public sources:
+**Data** cleaned from public sources:
 
 | Dataset | What it holds |
 |------------------------------------|------------------------------------|
