@@ -35,7 +35,7 @@ Yarra Valley.
 | [`breakeven_nights()`](https://etc5523-2026.github.io/etc5523-assignment-4-devaansh-ops/reference/breakeven_nights.md) | Nights a month needed to beat the long-term rent, with an estimate of nights a typical listing gets |
 | [`run_app()`](https://etc5523-2026.github.io/etc5523-assignment-4-devaansh-ops/reference/run_app.md) | Opens the app |
 
-**Data**, cleaned from public sources:
+**Data** cleaned from public sources:
 
 | Dataset | What it holds |
 |----|----|
