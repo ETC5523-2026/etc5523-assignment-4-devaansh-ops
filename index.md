@@ -1,9 +1,5 @@
 # staysvic: City or coast?
 
-------------------------------------------------------------------------
-
-editor_options: markdown: wrap: 72 —
-
 **Website:**
 <https://etc5523-2026.github.io/etc5523-assignment-4-devaansh-ops/>
 
