@@ -1,0 +1,44 @@
+Package: staysvic
+Title: City or Coast? Short-Stay Demand in Melbourne and Regional Victoria
+Version: 0.1.0
+Authors@R: 
+    person("Devaansh", "Gupta", , "dgup0007@student.monash.edu", role = c("aut", "cre"))
+Description: Helps someone thinking about running a short-stay rental compare
+    the Melbourne CBD with the Great Ocean Road, the Mornington Peninsula,
+    Geelong and other Victorian towns. Bundles cleaned Inside Airbnb listings
+    and reviews and Homes Victoria median rents, with functions that measure
+    seasonal demand, who operates the listings, and how many booked nights a
+    short stay needs to out-earn a normal lease. Includes a Shiny app for
+    exploring these questions.
+License: MIT + file LICENSE
+URL: https://etc5523-2026.github.io/etc5523-assignment-4-devaansh-ops/,
+    https://github.com/etc5523-2026/etc5523-assignment-4-devaansh-ops
+BugReports: https://github.com/etc5523-2026/etc5523-assignment-4-devaansh-ops/issues
+Depends: 
+    R (>= 4.1.0)
+Imports: 
+    bslib,
+    dplyr,
+    ggplot2,
+    rlang,
+    scales,
+    shiny,
+    tibble,
+    tidyr
+Suggests: 
+    jsonlite,
+    knitr,
+    lubridate,
+    purrr,
+    readr,
+    readxl,
+    rmarkdown,
+    testthat (>= 3.0.0),
+    usethis
+VignetteBuilder: knitr
+Config/testthat/edition: 3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+LazyDataCompression: none

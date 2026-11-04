@@ -1,0 +1,44 @@
+url: https://etc5523-2026.github.io/etc5523-assignment-4-devaansh-ops/
+
+template:
+  bootstrap: 5
+  bslib:
+    bg: "#FBF8F3"
+    fg: "#1B2A3A"
+    primary: "#1F6F8B"
+    base_font: {google: "Source Sans 3"}
+    heading_font: {google: "Fraunces"}
+    code_font: {google: "JetBrains Mono"}
+
+navbar:
+  structure:
+    left: [intro, reference, articles]
+    right: [search, github]
+
+home:
+  title: "staysvic: City or coast?"
+  description: Short-stay demand in Melbourne and regional Victoria.
+
+reference:
+- title: The app
+  contents:
+  - run_app
+- title: Analysis functions
+  desc: Used by the app and the vignette.
+  contents:
+  - seasonal_demand
+  - host_mix
+  - top_operators
+  - breakeven_nights
+- title: Data
+  contents:
+  - vic_listings
+  - vic_reviews_monthly
+  - vic_rents
+  - vic_places
+
+articles:
+- title: Guide
+  navbar: ~
+  contents:
+  - city-or-coast

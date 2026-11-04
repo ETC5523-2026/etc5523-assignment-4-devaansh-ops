@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data-raw/raw/
+docs
+inst/doc
+blog/*.html
+blog/*_files/
