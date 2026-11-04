@@ -41,7 +41,7 @@ Yarra Valley.
 |----|----|
 | `vic_listings` | One row per Airbnb listing, matched to a town and zone |
 | `vic_reviews_monthly` | Guest reviews by place and month, used as a stand-in for bookings |
-| `vic_rents` | Homes Victoria median weekly rents by council area and dwelling type |
+| `vic_rents` | Homes Victoria median weekly rents by by suburb group and dwelling type |
 | `vic_places` | The town centres used to group listings |
 
 ## Installation
