@@ -1,10 +1,3 @@
----
-
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # staysvic: City or coast?
 
 <!-- badges: start -->
