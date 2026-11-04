@@ -3,7 +3,7 @@ url: https://etc5523-2026.github.io/etc5523-assignment-4-devaansh-ops/
 template:
   bootstrap: 5
   bslib:
-    bg: "#FBF8F3"
+    bg: "#F4EDE1"
     fg: "#1B2A3A"
     primary: "#1F6F8B"
     base_font: {google: "Source Sans 3"}
@@ -11,6 +11,8 @@ template:
     code_font: {google: "JetBrains Mono"}
 
 navbar:
+  bg: dark
+  type: dark
   structure:
     left: [intro, reference, articles]
     right: [search, github]

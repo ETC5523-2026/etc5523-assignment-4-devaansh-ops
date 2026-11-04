@@ -1,0 +1,9 @@
+/*-- scss:rules --*/
+.navbar { background-color: #1B2A3A !important; }
+.navbar .navbar-brand, .navbar .nav-link, .navbar .navbar-nav .nav-link { color: #F4EDE1 !important; }
+.navbar .nav-link:hover, .navbar .nav-link.active { color: #FFFFFF !important; }
+.navbar .navbar-brand { font-family: "Fraunces", Georgia, serif; font-size: 1.3rem; }
+h1, h2, h3 { color: #1B2A3A; }
+h2 { border-bottom: 3px solid #E0A526; padding-bottom: 0.2rem; }
+blockquote { border-left: 4px solid #D9644A; background: #FBEDE9; padding: 0.6rem 1rem; }
+table { background: #FFFFFF; }
